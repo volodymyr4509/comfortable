@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2029541306">
+    <data-source source="LOCAL" name="hibernate.cfg.xml" uuid="d2a186a0-4a1f-47a0-ab79-acc75d3868dc">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/dbshop</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9f</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="MySQL - dbshop@localhost" uuid="c0b30111-7eba-41b7-95b8-f932a70063ed">
+      <driver-ref>mysql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/dbshop</jdbc-url>
+      <user-name>root</user-name>
+      <user-password>df9bdf98df99df9edf9f</user-password>
+      <driver-properties>
+        <property name="zeroDateTimeBehavior" value="convertToNull" />
+        <property name="tinyInt1isBit" value="false" />
+      </driver-properties>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
